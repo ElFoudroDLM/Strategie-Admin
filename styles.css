@@ -385,8 +385,8 @@ footer {
 }
 
 .ha-image {
-    width: 100%;
-    height: 100%;
+    width: 25%;
+    height: 25%;
     object-fit: contain; 
     object-position: center; 
     
